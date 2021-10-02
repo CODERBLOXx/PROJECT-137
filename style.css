@@ -1,0 +1,11 @@
+canvas {
+    border: 5px solid cyan;
+    border-radius: 10px;
+    border-style: ridge;
+    margin-top: 200px;
+}
+
+body {
+    background-size: cover;
+    background-position: center;
+}
